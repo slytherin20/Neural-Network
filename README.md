@@ -1,2 +1,3 @@
 # Neural-Network
-Project work of deep learning
+Project work on deep learning
+Till now only the SOM of a example has been calculated.
